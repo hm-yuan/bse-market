@@ -74,7 +74,6 @@ server = function(input, output, session) {
   # market
   source(paste0(PAGE_PATH, "market_bse.server.R"), local = T, encoding = "UTF-8")
   source(paste0(PAGE_PATH, "market_xxx.server.R"), local = T, encoding = "UTF-8")
-  
 }
 
 
