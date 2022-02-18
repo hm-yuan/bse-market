@@ -1,0 +1,26 @@
+{
+    "id": "D888C06E",
+    "path": "~/GitHub/bse-market/pages/market_bse.server.R",
+    "project_path": "pages/market_bse.server.R",
+    "type": "r_source",
+    "hash": "679361510",
+    "contents": "",
+    "dirty": false,
+    "created": 1645173347887.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "109,49",
+        "scrollLine": "93"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1645173352,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1645173352985,
+    "read_only": false,
+    "read_only_alternatives": []
+}
