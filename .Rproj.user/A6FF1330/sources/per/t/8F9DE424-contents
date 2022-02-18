@@ -24,10 +24,13 @@ fluidPage(
     ),
     column(
       width = 3,
-      dateRangeInput(
-        inputId = "market_bse_widgets_timerange",
-        start = "2020-07-27", end = Sys.Date(), max = Sys.Date(), min = "2020-07-27",
-        label = "", format = "yyyy-mm-dd", language = "zh-CN"
+      pickerInput(
+        inputId = "market_bse_widgets_firm",
+        label = "", 
+        choices = attr(unlist(firm_info$名称), "Labels"),
+        multiple = T,
+        options = list(
+          `live-search` = TRUE)
       )
     )
   ),

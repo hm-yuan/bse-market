@@ -3,7 +3,7 @@
     "path": "~/GitHub/bse-market/global.R",
     "project_path": "global.R",
     "type": "r_source",
-    "hash": "2394968686",
+    "hash": "1183600980",
     "contents": "",
     "dirty": false,
     "created": 1645166852514.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "21,0",
-        "scrollLine": "0"
+        "cursorPosition": "9,18",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1645166977,
+    "lastKnownWriteTime": 1645174988,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1645166977157,
+    "last_content_update": 1645174988430,
     "read_only": false,
     "read_only_alternatives": []
 }

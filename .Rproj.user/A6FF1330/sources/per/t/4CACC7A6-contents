@@ -4,6 +4,7 @@
 library(shiny)
 library(bs4Dash)
 library(tidyverse)
+library(openxlsx)
 library(shinyWidgets)
 library(fontawesome)
 library(lubridate)
@@ -26,6 +27,7 @@ countup_time = 5
 # data --------------------------------------------------------------------
 
 mkt_data = readRDS("data/data_market.rds")
+firm_info = read.xlsx("data/firm_info.xlsx", detectDates = T)
 
 
 # widget ------------------------------------------------------------------
